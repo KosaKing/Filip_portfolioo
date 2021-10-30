@@ -5,3 +5,9 @@
 - Engineered features from the text of each job description to quantify the values companies put on python excel, aws, and spark
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model
 - Built a client-facing API using flask 
+
+# [Project 2 - Something something](https://www.example.com)
+- Bla bla
+- Ble Ble
+- Clumpsy numpsy
+- What's up bro
